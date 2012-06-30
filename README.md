@@ -1,34 +1,32 @@
-Data
-30/06/2012
+##Caixa Eletr√¥nico - 30/06/2012
 
-Problema
-=============
-Caixa EletrÙnico
+Desenvolva um programa que simule a entrega de notas quando um cliente efetuar um saque em um caixa eletr√¥nico. Os requisitos b√°sicos s√£o os seguintes
 
-DescriÁ„o do problema
-=============
+###Requisitos
 
-Desenvolva um programa que simule a entrega de notas quando um cliente efetuar um saque em um caixa eletrÙnico. Os requisitos b·sicos s„o os seguintes
-
-Requisitos
-----------
-
-* Entregar o menor n˙mero de notas;
-* … possÌvel sacar o valor solicitado com as notas disponÌveis;
+* Entregar o menor n√∫mero de notas;
+* √â poss√≠vel sacar o valor solicitado com as notas dispon√≠veis;
 * Saldo do cliente infinito;
-* Quantidade de notas infinito (pode-se colocar um valor finito de cÈdulas para aumentar a dificuldade do problema);
-* Notas disponÌveis de R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00
+* Quantidade de notas infinito (pode-se colocar um valor finito de c√©dulas para aumentar a dificuldade do problema);
+* Notas dispon√≠veis de R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00
 
-#Exemplos
-* Valor do Saque: R$ 30,00 ñ Resultado Esperado: Entregar 1 nota de R$20,00 e 1 nota de R$ 10,00.
-* Valor do Saque: R$ 80,00 ñ Resultado Esperado: Entregar 1 nota de R$50,00 1 nota de R$ 20,00 e 1 nota de R$ 10,00.
-
+###Exemplos
+* Valor do Saque: R$ 30,00 ‚Äì Resultado Esperado: Entregar 1 nota de R$20,00 e 1 nota de R$ 10,00.
+* Valor do Saque: R$ 80,00 ‚Äì Resultado Esperado: Entregar 1 nota de R$50,00 1 nota de R$ 20,00 e 1 nota de R$ 10,00.
 
 ##Participantes
-* Dyego Costa
-* Felipe Zini
-* Igor Bozato
-* Igor Rozani
-* Õtalo Girotto
-* Joberto Diniz
-* Rafael Tozato
+* [Dyego Costa][DyegoCosta]
+* [Felipe Zini][FelipeZini]
+* [Igor Bozato][IgorBozato]
+* [Igor Rozani][IgorRozani]
+* [√çtalo Girotto][ItaloGirotto]
+* [Joberto Diniz][Juninho]
+* [Rafael Tozato][RafaelTozato]
+
+[DyegoCosta]:http://twitter.com/dyegoscosta   "Dyego Costa"
+[FelipeZini]:http://twitter.com/fzini         "Felipe Zini"
+[IgorBozato]:http://twitter.com/igorbozato    "Igor Bozato"
+[IgorRozani]:http://twitter.com/igorrozani    "Igor Rozani"
+[ItaloGirotto]:http://twitter.com/imgirotto   "√çtalo Girotto"
+[Juninho]:http://twitter.com/jobadiniz        "Joberto Diniz"
+[RafaelTozato]:http://twitter.com/rtozato     "Rafael Tozato"
